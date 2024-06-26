@@ -31,9 +31,6 @@ const canaryChannelLabel = 'rc';
 // If the canaryChannelLabel is "rc", the build pipeline will use this to build
 // an RC version of the packages.
 const rcNumber = 0;
-//ssss
-//sss
-//ssss
 const stablePackages = {
   'eslint-plugin-react-hooks': '5.1.0',
   'jest-react': '0.16.0',
